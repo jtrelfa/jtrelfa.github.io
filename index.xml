@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blackburn Theme Demo</title>
-    <link>https://www.example.com/</link>
-    <description>Recent content on Blackburn Theme Demo</description>
+    <title>Jon Trelfa</title>
+    <link>http://www.trelfa.org/</link>
+    <description>Recent content on Jon Trelfa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 22 Aug 2017 18:53:43 +0000</lastBuildDate>
     
-	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.trelfa.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>about</title>
+      <link>http://www.trelfa.org/about/</link>
+      <pubDate>Tue, 22 Aug 2017 18:53:43 +0000</pubDate>
+      
+      <guid>http://www.trelfa.org/about/</guid>
+      <description>I am a human male - a real boy. My nose does not grow if I lie but I feel really bad about it. I&amp;rsquo;ll stick to the truth.</description>
+    </item>
     
   </channel>
 </rss>
